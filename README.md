@@ -1,5 +1,9 @@
 # 🎛️ Gerador de Senha
 
+
+https://github.com/skypse/Projeto-31-JavaScript-Password-Hide-And-Show/assets/97822775/7bda149a-fcb4-46fc-bdd6-52b8743c68f3
+
+
 Um gerador de senha simples feito com HTML, CSS e JavaScript que permite aos usuários criar senhas seguras com facilidade.
 
 ⚙️ Funcionalidades Principais
